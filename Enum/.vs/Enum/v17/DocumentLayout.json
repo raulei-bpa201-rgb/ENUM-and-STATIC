@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ENUM-and-STATIC\\Enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C72D7D24-7EF3-41C9-BEA5-CABAD0157753}|MASIN\\MASIN.csproj|c:\\users\\ii novbe\\source\\repos\\enum-and-static\\enum\\masin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72D7D24-7EF3-41C9-BEA5-CABAD0157753}|MASIN\\MASIN.csproj|solutionrelative:masin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72D7D24-7EF3-41C9-BEA5-CABAD0157753}|MASIN\\MASIN.csproj|c:\\users\\ii novbe\\source\\repos\\enum-and-static\\enum\\masin\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72D7D24-7EF3-41C9-BEA5-CABAD0157753}|MASIN\\MASIN.csproj|solutionrelative:masin\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72D7D24-7EF3-41C9-BEA5-CABAD0157753}|MASIN\\MASIN.csproj|c:\\users\\ii novbe\\source\\repos\\enum-and-static\\enum\\masin\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72D7D24-7EF3-41C9-BEA5-CABAD0157753}|MASIN\\MASIN.csproj|solutionrelative:masin\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72D7D24-7EF3-41C9-BEA5-CABAD0157753}|MASIN\\MASIN.csproj|c:\\users\\ii novbe\\source\\repos\\enum-and-static\\enum\\masin\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72D7D24-7EF3-41C9-BEA5-CABAD0157753}|MASIN\\MASIN.csproj|solutionrelative:masin\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ENUM-and-STATIC\\Enum\\MASIN\\Bus.cs",
+              "RelativeDocumentMoniker": "MASIN\\Bus.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ENUM-and-STATIC\\Enum\\MASIN\\Bus.cs",
+              "RelativeToolTip": "MASIN\\Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:27:37.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ENUM-and-STATIC\\Enum\\MASIN\\Car.cs",
+              "RelativeDocumentMoniker": "MASIN\\Car.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ENUM-and-STATIC\\Enum\\MASIN\\Car.cs",
+              "RelativeToolTip": "MASIN\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:27:26.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ENUM-and-STATIC\\Enum\\MASIN\\Vehicle.cs",
+              "RelativeDocumentMoniker": "MASIN\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ENUM-and-STATIC\\Enum\\MASIN\\Vehicle.cs",
+              "RelativeToolTip": "MASIN\\Vehicle.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:25:11.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ENUM-and-STATIC\\Enum\\MASIN\\Program.cs",
+              "RelativeDocumentMoniker": "MASIN\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ENUM-and-STATIC\\Enum\\MASIN\\Program.cs",
+              "RelativeToolTip": "MASIN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:24:30.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

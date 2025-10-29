@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessage", "SendMessage.csproj", "{87532C26-80A1-4662-9AED-A79D008F8059}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MASIN", "..\MASIN\MASIN.csproj", "{27E967F2-61BD-41FA-9AC5-C6441CDDAB4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{87532C26-80A1-4662-9AED-A79D008F8059}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87532C26-80A1-4662-9AED-A79D008F8059}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87532C26-80A1-4662-9AED-A79D008F8059}.Release|Any CPU.Build.0 = Release|Any CPU
-		{27E967F2-61BD-41FA-9AC5-C6441CDDAB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{27E967F2-61BD-41FA-9AC5-C6441CDDAB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{27E967F2-61BD-41FA-9AC5-C6441CDDAB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{27E967F2-61BD-41FA-9AC5-C6441CDDAB4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\Enum\MASIN\bin\Debug\net8.0\MASIN.exe
+C:\Users\II Novbe\source\repos\Enum\MASIN\bin\Debug\net8.0\MASIN.deps.json
+C:\Users\II Novbe\source\repos\Enum\MASIN\bin\Debug\net8.0\MASIN.runtimeconfig.json
+C:\Users\II Novbe\source\repos\Enum\MASIN\bin\Debug\net8.0\MASIN.dll
+C:\Users\II Novbe\source\repos\Enum\MASIN\bin\Debug\net8.0\MASIN.pdb
+C:\Users\II Novbe\source\repos\Enum\MASIN\obj\Debug\net8.0\MASIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\Enum\MASIN\obj\Debug\net8.0\MASIN.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\Enum\MASIN\obj\Debug\net8.0\MASIN.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\Enum\MASIN\obj\Debug\net8.0\MASIN.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\Enum\MASIN\obj\Debug\net8.0\MASIN.dll
+C:\Users\II Novbe\source\repos\Enum\MASIN\obj\Debug\net8.0\refint\MASIN.dll
+C:\Users\II Novbe\source\repos\Enum\MASIN\obj\Debug\net8.0\MASIN.pdb
+C:\Users\II Novbe\source\repos\Enum\MASIN\obj\Debug\net8.0\MASIN.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\Enum\MASIN\obj\Debug\net8.0\ref\MASIN.dll
