@@ -10,8 +10,17 @@
 
             bus.PassengerCount = 44;
 
-            bus.ShowInfo();
-            main.ShowInfo();
+            Bus bus_2 = new Bus(2103);
+
+            bus_2.PassengerCount = 222;
+
+            Car main_3 = new Car("BMW", "X7", 2025);
+
+            Vehicle[] array = { main, main_3, bus_2, bus };
+            foreach (var v in array)
+            {
+                v.ShowInfo();
+            }
         }
     }
 }

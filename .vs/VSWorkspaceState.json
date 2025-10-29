@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Enum",
+    "\\Enum\\MASIN"
   ],
+  "SelectedNode": "\\Enum\\MASIN\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
